@@ -19,11 +19,13 @@ The automation script provisions and wires the following resources in us-east-1:
 ---
 
 ## 📂 Directory Structure
+
+```text
 lab-01-vpc-networking/
 ├── README.md
 └── bash/
     └── lab_execution.sh
-
+```
 ---
 
 ## 🚀 Usage / How to Run
